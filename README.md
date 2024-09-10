@@ -32,4 +32,3 @@ Edit with HTML and CSS
 **Enhanced Creativity:** Empower designers and developers to quickly generate and visualize concepts.
 **Efficient Workflow:** Streamline the image creation process with automated, AI-driven tools.
 **Global Reach:** Support for multiple languages and regional settings to cater to a diverse audience.
----
