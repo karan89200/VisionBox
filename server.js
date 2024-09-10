@@ -8,8 +8,8 @@ app.use(bodyParser.json());
 app.use(cors()); // Allow cross-origin requests from the frontend
 
 // Replace with your actual endpoint and API key from Azure
-const endpoint = "Enter_ENDPOINT";
-const apiKey = "Enter_API_KEY";
+const endpoint = "https://visionbox.openai.azure.com/openai/deployments/dall-e-3/images/generations?api-version=2024-02-01";
+const apiKey = "acb80c3b569b4702a96a7935bbdb1b7a";
 
 app.post("/generate-image", async (req, res) => {
     
