@@ -12,7 +12,15 @@
 - **Azure AI Integration**: Real-time image generation using Azure's powerful AI.
 - **Responsive Front-End**: Built with HTML and JavaScript for a seamless user experience.
 - **Optimized API Workflow**: Efficient API request handling for faster image rendering.
+- **Multi-Language Support**: support for global search multiple languages. 
 
 ---
+##  🔗 Quick links
+
+
+
+##  📜 Usage 
+
+
 
 
