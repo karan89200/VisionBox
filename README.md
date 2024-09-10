@@ -3,7 +3,9 @@
 This project demonstrates how to integrate Azure's DALL·E Image Generation API into a local HTML page. The user can generate a single image by entering a text prompt, and the image will be fetched from the Azure API and displayed on the page.
 
 
-*(Replace the above URL with an actual image showing your HTML page and the generated image)*
+## Demo URL:
+https://bunk4code.github.io/VisionBox/
+
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -46,10 +48,13 @@ Before running the application, ensure you have:
 - Basic understanding of HTML, JavaScript, and APIs.
 
 ## Setup
+1. Install any IDE : Pycharm, Vscode,Spider
+2. Install node (npm, express or other dependices)
+3. Sign in azure ai portal through microsoft account.
+4. If you have mastercard or visa card, you can create free 30 days trial (200$ given by microsoft azure for usage) and pay as you go premium accountl
+   
 
 ### 1. Clone the Repository
+https://github.com/bunk4code/VisionBox/
 
-
-```bash
-git clone https://github.com/yourusername/azure-dalle-html-integration.git
 cd azure-dalle-html-integration
