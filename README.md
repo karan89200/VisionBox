@@ -52,7 +52,13 @@ Before running the application, ensure you have:
 2. Install node (npm, express or other dependices)
 3. Sign in azure ai portal through microsoft account.
 4. If you have mastercard or visa card, you can create free 30 days trial (200$ given by microsoft azure for usage) and pay as you go premium accountl
-   
+
+
+###LIVE DEMO
+###To run this model.
+###step 1. In terminal, type : node <filename.js> for running the local server on your computer.
+###step 2. Start live server of your web page.
+ ## Here is the
 
 ### 1. Clone the Repository
 https://github.com/bunk4code/VisionBox/
